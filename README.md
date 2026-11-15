@@ -3,7 +3,16 @@
   <img src="assets/intro.svg" width="100%" alt="Brendan Lim · Computer Science @ NUS" />
 </picture>
 
-I'm Brendan, a Computer Science undergraduate at the **National University of Singapore**. I build AI-powered products around problems I've encountered firsthand, working across full-stack engineering, AI integration and product development.
+I'm Brendan, a Computer Science undergraduate at the **National University of Singapore**. I build AI-powered products and developer tools around problems I've encountered firsthand.
+
+### Developer tools · bstack
+
+I'm building **[bstack](https://github.com/bstack-tools)**, a collection of tools for working with coding agents.
+
+| Project | What it does |
+| --- | --- |
+| **[ContextLens](https://github.com/bstack-tools/ContextLens)** | Capture a window on your Mac, mark what should change, and hand screenshots and instructions to your coding agent. |
+| **[ALL · Agent Learning Loop](https://github.com/bstack-tools/all-agent-learning-loop)** | Turn coding-agent corrections into reviewed engineering safeguards. In development. |
 
 ### Featured project · Quack
 
