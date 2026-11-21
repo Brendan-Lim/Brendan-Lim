@@ -9,18 +9,18 @@ Hi, I'm Brendan, a Computer Science undergraduate and NUS Merit Scholar. I build
 
 ### What I'm working on
 
-- **Chemify** · *Founding software engineer.* Building a tuition operations platform with an AI agent for enquiries and trial sign-ups.
-- **Project Battambang, NUS Medicine** · *Software developer.* Building an offline-first fieldwork app for rural Cambodia.
-- **NUS Computing Developer Group** · *Technology associate.* Building a volunteer management system for ACRES.
-- **Upcycler Studios** · *Previously SWE & operations intern.* Implemented data pipelines for better sourcing decisions.
+- <img src="assets/logos/chemify.svg" width="18" height="18" alt="" /> **Chemify** · *Founding software engineer.* Building a tuition operations platform with an AI agent for enquiries and trial sign-ups.
+- 🇰🇭 **Project Battambang, NUS Medicine** · *Software developer.* Building an offline-first fieldwork app for rural Cambodia.
+- <img src="assets/logos/nuscomputing.png" width="18" height="18" alt="" /> **NUS Computing Developer Group** · *Technology associate.* Building a volunteer management system for ACRES.
+- ♻️ **Upcycler Studios** · *Previously SWE & operations intern.* Implemented data pipelines for better sourcing decisions.
 
-### Building [bstack](https://github.com/bstack-tools)
+### <img src="assets/logos/bstack.png" width="22" height="22" alt="" /> Building [bstack](https://github.com/bstack-tools)
 
 Tools that make coding agents easier to work with.
 
-- **[ContextLens](https://github.com/bstack-tools/ContextLens)** · A native Mac app. Capture a window, mark what should change, and hand the screenshots and instructions to Claude Code or Codex.
+- <img src="assets/logos/contextlens.svg" width="18" height="18" alt="" /> **[ContextLens](https://github.com/bstack-tools/ContextLens)** · A native Mac app. Capture a window, mark what should change, and hand the screenshots and instructions to Claude Code or Codex.
   `brew install --cask Brendan-Lim/tap/contextlens-preview`
-- **[ALL · Agent Learning Loop](https://github.com/bstack-tools/all-agent-learning-loop)** · Turns coding-agent corrections into reviewed project safeguards. *In development.*
+- 🔁 **[ALL · Agent Learning Loop](https://github.com/bstack-tools/all-agent-learning-loop)** · Turns coding-agent corrections into reviewed project safeguards. *In development.*
 
 ### Projects
 
@@ -37,10 +37,10 @@ Tools that make coding agents easier to work with.
   </picture>
 </a>
 
-- **[Quack](https://github.com/Brendan-Lim/Quack)** · An AI maths tutor for handwritten homework. Meta's multimodal model reads the ink, SymPy checks the maths, and hints help students fix their own mistakes. Built for the Meta Global AI Developer Hackathon 2026. [Try Quack →](https://quack-amber-seven.vercel.app/)
-- **ExchangeCopilot** · Helps NUS students find overseas module equivalents for exchange. Uses hybrid search (PostgreSQL full-text, GTE embeddings, BGE reranker) to match courses. [Try ExchangeCopilot →](https://brendan-lim--mvp2-starter.us-east.modal.run/) <sub>(may take ~30 s to wake)</sub> · Source available on request.
-- **[PARALLAX](https://github.com/Brendan-Lim/PARALLAX)** · An evidence-aware astronaut health companion, built for the NASA Space Apps Challenge 2026. [Try PARALLAX →](https://parallax-health.brendanlimkh04.workers.dev/)
-- **[NotFreshEnough](https://github.com/Brendan-Lim/NotFreshEnough)** · An AI roaster for GitHub repos. 🏆 *Most Likely to Go Viral* at the TinyFish Hackathon 2026, out of 140+ submissions.
-- **[NUS Canvas → Telegram](https://github.com/Brendan-Lim/NUS-Canvas-Daily-Telegram-Reminder-Bot)** · Daily Canvas deadline digests on Telegram for NUS students, running serverless on GitHub Actions. Use the template to set up your own.
+- <img src="assets/logos/quack.svg" width="18" height="18" alt="" /> **[Quack](https://github.com/Brendan-Lim/Quack)** · An AI maths tutor for handwritten homework. Meta's multimodal model reads the ink, SymPy checks the maths, and hints help students fix their own mistakes. Built for the Meta Global AI Developer Hackathon 2026. [Try Quack →](https://quack-amber-seven.vercel.app/)
+- <img src="assets/logos/exchangecopilot.svg" width="18" height="18" alt="" /> **ExchangeCopilot** · Helps NUS students find overseas module equivalents for exchange. Uses hybrid search (PostgreSQL full-text, GTE embeddings, BGE reranker) to match courses. [Try ExchangeCopilot →](https://brendan-lim--mvp2-starter.us-east.modal.run/) <sub>(may take ~30 s to wake)</sub> · Source available on request.
+- <img src="assets/logos/parallax.svg" width="18" height="18" alt="" /> **[PARALLAX](https://github.com/Brendan-Lim/PARALLAX)** · An evidence-aware astronaut health companion, built for the NASA Space Apps Challenge 2026. [Try PARALLAX →](https://parallax-health.brendanlimkh04.workers.dev/)
+- 🐟 **[NotFreshEnough](https://github.com/Brendan-Lim/NotFreshEnough)** · An AI roaster for GitHub repos. 🏆 *Most Likely to Go Viral* at the TinyFish Hackathon 2026, out of 140+ submissions.
+- 🎓 **[NUS Canvas → Telegram](https://github.com/Brendan-Lim/NUS-Canvas-Daily-Telegram-Reminder-Bot)** · Daily Canvas deadline digests on Telegram for NUS students, running serverless on GitHub Actions. Use the template to set up your own.
 
 <sub>Python · TypeScript · Swift · Java · Next.js · React Native · FastAPI · PostgreSQL · Docker · Google Cloud Run · Modal</sub>
