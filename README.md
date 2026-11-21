@@ -43,4 +43,15 @@ Tools that make coding agents easier to work with.
 - 🐟 **[NotFreshEnough](https://github.com/Brendan-Lim/NotFreshEnough)** · An AI roaster for GitHub repos. 🏆 *Most Likely to Go Viral* at the TinyFish Hackathon 2026, out of 140+ submissions.
 - 🎓 **[NUS Canvas → Telegram](https://github.com/Brendan-Lim/NUS-Canvas-Daily-Telegram-Reminder-Bot)** · Daily Canvas deadline digests on Telegram for NUS students, running serverless on GitHub Actions. Use the template to set up your own.
 
-<sub>Python · TypeScript · Swift · Java · Next.js · React Native · FastAPI · PostgreSQL · Docker · Google Cloud Run · Modal</sub>
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/python-dark.svg" /><img src="assets/stack/python-light.svg" width="36" height="36" alt="Python" title="Python" /></picture>
+  <img src="assets/stack/typescript.svg" width="36" height="36" alt="TypeScript" title="TypeScript" />
+  <img src="assets/stack/swift.svg" width="36" height="36" alt="Swift" title="Swift" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/java-dark.svg" /><img src="assets/stack/java-light.svg" width="36" height="36" alt="Java" title="Java" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nextjs-dark.svg" /><img src="assets/stack/nextjs-light.svg" width="36" height="36" alt="Next.js" title="Next.js" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg" /><img src="assets/stack/react-light.svg" width="36" height="36" alt="React" title="React" /></picture>
+  <img src="assets/stack/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql-dark.svg" /><img src="assets/stack/postgresql-light.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></picture>
+  <img src="assets/stack/docker.svg" width="36" height="36" alt="Docker" title="Docker" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/gcp-dark.svg" /><img src="assets/stack/gcp-light.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></picture>
+</p>
