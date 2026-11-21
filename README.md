@@ -12,7 +12,7 @@ Hi, I'm Brendan, a Computer Science undergraduate and NUS Merit Scholar. I build
 - **Chemify** · *Founding software engineer.* Building a tuition operations platform with an AI agent for enquiries and trial sign-ups.
 - **Project Battambang, NUS Medicine** · *Software developer.* Building an offline-first fieldwork app for rural Cambodia.
 - **NUS Computing Developer Group** · *Technology associate.* Building a volunteer management system for ACRES.
-- **Upcycler Studios** · *Previously SWE & operations intern.* Built a multimodal AI agent for product cataloguing and pricing.
+- **Upcycler Studios** · *Previously SWE & operations intern.* Implemented data pipelines for better sourcing decisions.
 
 ### Building [bstack](https://github.com/bstack-tools)
 
