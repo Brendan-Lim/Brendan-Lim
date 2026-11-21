@@ -50,8 +50,12 @@ Tools that make coding agents easier to work with.
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/java-dark.svg" /><img src="assets/stack/java-light.svg" width="36" height="36" alt="Java" title="Java" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nextjs-dark.svg" /><img src="assets/stack/nextjs-light.svg" width="36" height="36" alt="Next.js" title="Next.js" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/react-dark.svg" /><img src="assets/stack/react-light.svg" width="36" height="36" alt="React" title="React" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/tailwindcss-dark.svg" /><img src="assets/stack/tailwindcss-light.svg" width="36" height="36" alt="Tailwind CSS" title="Tailwind CSS" /></picture>
   <img src="assets/stack/fastapi.svg" width="36" height="36" alt="FastAPI" title="FastAPI" />
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/nodejs-dark.svg" /><img src="assets/stack/nodejs-light.svg" width="36" height="36" alt="Node.js" title="Node.js" /></picture>
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/postgresql-dark.svg" /><img src="assets/stack/postgresql-light.svg" width="36" height="36" alt="PostgreSQL" title="PostgreSQL" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/supabase-dark.svg" /><img src="assets/stack/supabase-light.svg" width="36" height="36" alt="Supabase" title="Supabase" /></picture>
   <img src="assets/stack/docker.svg" width="36" height="36" alt="Docker" title="Docker" />
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/gcp-dark.svg" /><img src="assets/stack/gcp-light.svg" width="36" height="36" alt="Google Cloud" title="Google Cloud" /></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack/cloudflare-dark.svg" /><img src="assets/stack/cloudflare-light.svg" width="36" height="36" alt="Cloudflare" title="Cloudflare" /></picture>
 </p>
