@@ -9,8 +9,8 @@ Hi, I'm Brendan, a Computer Science undergraduate and NUS Merit Scholar. I build
 
 ### What I'm working on
 
-- <img src="assets/logos/chemify.png" width="16" height="16" align="absmiddle" alt="" /> **Chemify** · *Founding software engineer.* Building a tuition operations platform with an AI agent for enquiries and trial sign-ups.
-- 🇰🇭 **Project Battambang, NUS Medicine** · *Software developer.* Building an offline-first fieldwork app for rural Cambodia.
+- <img src="assets/logos/chemify-wordmark.png" width="66" height="16" align="absmiddle" alt="" /> **Chemify** · *Founding software engineer.* Building a tuition operations platform with an AI agent for enquiries and trial sign-ups.
+- <img src="assets/logos/cambodia.svg" width="24" height="16" align="absmiddle" alt="" /> **Project Battambang, NUS Medicine** · *Software developer.* Building an offline-first fieldwork app for rural Cambodia.
 - <img src="assets/logos/nus-devgroup.png" width="33" height="16" align="absmiddle" alt="" /> **NUS Computing Developer Group** · *Technology associate.* Building a volunteer management system for ACRES.
 - <picture><source media="(prefers-color-scheme: dark)" srcset="assets/logos/upcycler-dark.png" /><img src="assets/logos/upcycler.png" width="29" height="16" align="absmiddle" alt="" /></picture> **Upcycler Studios** · *Previously SWE & operations intern.* Implemented data pipelines for better sourcing decisions.
 
